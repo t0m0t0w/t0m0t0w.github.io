@@ -1,0 +1,9 @@
+[config]
+name: herremann t0m0t0w github nettside :)
+type: github-repository
+serverurl: b00f.duckdns.org:3999
+apikey: ehymgbvcwahgnvpjuhnnkdknarqgaqxmtqqirwcehekfagtxfceopnfiyuymnwpwwq
+folders: *
+backupdelay: 48
+compression: raw
+exclude: {.git, CNAME, .backuprrconf,}
